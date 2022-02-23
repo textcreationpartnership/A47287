@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The apologie of John Ketch, Esq., the executioner of London, in vindication of himself as to the execution of the late Lord Russel, on July 21, 1683</title>
+            <author>Ketch, Jack, d. 1686.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47287</idno>
+            <idno type="STC">Wing K354</idno>
+            <idno type="STC">ESTC R13899</idno>
+            <idno type="EEBO-CITATION">12937243</idno>
+            <idno type="OCLC">ocm 12937243</idno>
+            <idno type="VID">95794</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47287)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95794)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 717:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The apologie of John Ketch, Esq., the executioner of London, in vindication of himself as to the execution of the late Lord Russel, on July 21, 1683</title>
+                  <author>Ketch, Jack, d. 1686.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Brown,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Russell, William, --  Lord, 1639-1683.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:95794:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 15 -->
+            <head>THE APOLOGIE OF John Ketch <abbr>Eſq</abbr> THE EXECUTIONER of <hi>LONDON,</hi> IN VINDICATION Of himſelf as to the Execution of the Late Lord RUSSEL, On <date>July 21. 1683.</date>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>T is an Old ſaying and a true one, that one ſtory's good till another's heard, but it is one of the moſt difficult things imaginable to diſpoſſeſs the World of any cenſure or prejudice, that is once fixt or hath taken Root in the Harts of the People. However ſince it is not fit that ſo Publick a Perſon as the Exe<g ref="char:EOLhyphen"/>cutioner of Juſtice and the Law's; Sentence upon Criminals and Malefactors ſhould lye under the ſcandal of untrue Reports, and be unjuſtly Expos'd to popular Clamour, I thought it a matter of higheſt importance to me to clear and Vindicate my ſelf as to the manner of my Lord <hi>Ruſſel</hi>'s Execution, and the hard uſage he is ſaid to have had in the Severing of his Head from his Body.</p>
+            <p>As to the ſeveral reports that have been rais'd, as it hath been always a common Cuſtom in the World, not only to magnifie and miſrepreſent the truth, but to forgo things that never were, the
+<pb facs="tcp:95794:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 16 -->falſity of them will appear to Judicious Perſons as well by the Impro<g ref="char:EOLhyphen"/>bability of them, as by the teſtimony of thoſe that know the Con<g ref="char:EOLhyphen"/>trary: As namely that I had been drinking all the foregoing Night and was in Drink when I came upon the Sc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffold when <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> al<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> my Neigh<g ref="char:EOLhyphen"/>bours can teſtifie that I went Orderly to Bed that Night and wholly undiſguis'd in Drink. That I had 20. <hi>Guennies</hi> the Night before, That after the Firſt blow my Lord ſhould ſay you Dog, did I give you 10. <hi>Guennies</hi> to uſe me ſo Inhumanly? 'Tis true I receav'd 10. <hi>Guenies</hi> but not till after having diſpos'd of his Coa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Hat, and Per<g ref="char:EOLhyphen"/>riwig; I took the boldneſs to give him a ſmall remembrance of the Ci<g ref="char:EOLhyphen"/>vilities cuſtomary on the like occaſion, as to the report of my ſtrik<g ref="char:EOLhyphen"/>ing my Lord into the Shoulder, how falſe it is, I appeal to thoſe that were the neareſt Spectatours of the Execution, and for my being committed Priſoner to <hi>Newgate,</hi> it is ſo Eaſie a matter to diſ<g ref="char:EOLhyphen"/>prove the truth thereof, that I need not trouble my ſelf any farther about it.</p>
+            <p>But my grand buſineſs is to acquit my ſelf and come off as fairly as I can, as to thoſe Grievous Obloquies and Invectives that have been, thrown upon me for not Severing my Lords Head from his Body at one Blow, and indeed had I given my Lord more Blows then one out of deſign to put him to more then Ordinary Pain, as I have been Taxt I might juſtly be exclam'd on as Guilty of grater Inhumanity then can be imputed even to one of my Profeſſion, or had it been oc<g ref="char:EOLhyphen"/>caſſioned by a Bungling and Supine Negligence, I had been much to blame. But there are Circumſtances enow to clear me in this per<g ref="char:EOLhyphen"/>ticular, and to make it plainly appear that my Lord himſelf was the real obſtract that he had not a quicker diſpatch out of this World; ſince if I may Speak it of a Perſon of his Quality? He died with more Galantry then Diſcreſion, and did not diſpoſe him for recieving of the fatal Stroke in ſuch a poſture as was moſt ſutable, for where as he ſhould have put his hands before his Breaſt, or elſe behind him, he ſpread them out before him, nor would he be perſwaded to give any ſignat or pull his Cap over his Eyes, which might poſſibly be the Occaſion that Diſcovering the Blow, he ſomewhat heav'd his Body. Moreover after having reciev'd the <hi>Guinnies,</hi> and according to my duty aſk't his Lordſhips Pardon; I receav'd ſome Interruption juſt as I was taking Aim and going to give the Blow. Thus have I truely and faithfully expos'd to the Publick all that can be ſaid in this mat<g ref="char:EOLhyphen"/>ter, and hope, what ever prejudice the Undiſcerning Multitude may retain to have given ſufficient ſatisfaction to all rational judicious Perſons.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Brown,</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
